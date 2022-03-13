@@ -1,0 +1,88 @@
+[
+    {
+    "id": 1,
+    "name": "ЖК БРИЛЛИАНТОВЫЙ",
+    "image": [
+        "https://i.postimg.cc/SR003C57/brilliant1.jpg",
+        "https://i.postimg.cc/x8V7tYJ6/brilliant2.jpg",
+        "https://i.postimg.cc/Qxsw78rt/brilliant3.jpg"
+    ]
+},
+{
+    "id": 2,
+    "name": "ЖК МАЛАХИТОВЫЙ",
+    "image": [
+        "https://i.postimg.cc/1Xpk4VkK/malakhit1.jpg",
+        "https://i.postimg.cc/NGmqdZKr/malakhit2.jpg",
+        "https://i.postimg.cc/KjSXZDHz/malakhit3.jpg"
+    ]
+},
+{
+    "id": 3,
+    "name": "ЖК КАРАБИНОВЫЙ",
+    "image": [
+        "https://i.postimg.cc/bY7YJQt1/carabin1.jpg",
+        "https://i.postimg.cc/VLXfbdqp/carabin2.jpg",        
+        "https://i.postimg.cc/WpFbT9h2/carabin3.jpg"
+    ]
+},
+{
+    "id": 4,
+    "name": "Г. АЛМАТЫ, УЛ.АКАДЕМИКА, 48",
+    "image": [
+        "https://i.postimg.cc/3Jx1kvQJ/akademik1.jpg",
+        "https://i.postimg.cc/tR5DRzfM/akademik2.jpg",
+        "https://i.postimg.cc/qqjGmkyT/alademik3.jpg"
+    ]
+},
+{
+    "id": 5,
+    "name": "Г.НУР-СУЛТАН, УЛ.ЭЛОНА МАСКА, 48",
+    "image": [
+        "https://i.postimg.cc/NMbTtdM8/mask1.jpg",
+        "https://i.postimg.cc/kGpb6DWB/mask2.jpg",
+        "https://i.postimg.cc/Vv6tkXrx/mask3.jpg"
+    ]
+},
+{
+    "id": 6,
+    "name": "Г. АЛМАТЫ, ПР.ПОБЕДЫ, 11",
+    "image": [
+        "https://i.postimg.cc/DyRxRwRv/pobeda1.jpg",
+        "https://i.postimg.cc/R0LG3Qhh/pobeda2.jpg",
+        "https://i.postimg.cc/FK4Dsn9w/pobeda3.jpg"
+    ]
+},
+{
+    "id": 7,
+    "name": "ЖК БАРБАРИС",
+    "image": [
+        "https://i.postimg.cc/GtWvgHt6/barbaris1.jpg",
+        "https://i.postimg.cc/9XKPQNb1/barbaris2.jpg"
+    ]
+},
+{
+    "id": 8,
+    "name": "ЖК ОЗЕРНЫЕ ПРУДЫ",
+    "image": [
+        "https://i.postimg.cc/c122wW0n/ozero1.jpg",
+        "https://i.postimg.cc/J4XgQFzd/ozero2.jpg"
+    ]
+},
+{
+    "id": 9,
+    "name": "Г. АЛМАТЫ, УЛ.АКАДЕМИКА, 48",
+    "image": [
+        "https://i.postimg.cc/5yL38ZSB/akadem1.jpg",
+        "https://i.postimg.cc/XNCQMC6r/akadem2.jpg"
+    ]
+},
+{
+    "id": 10,
+    "name": "ЖК МАЛАХИТОВЫЙ",
+    "image": [
+        "https://i.postimg.cc/ZKJ3fBbt/malakh1.jpg",
+        "https://i.postimg.cc/ZKjNXbn9/malakh2.jpg"
+    ]
+}
+]
